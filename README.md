@@ -8,4 +8,4 @@ Modules used:
 command to download module:
   - pip install PythonTurtle
   
-For output referance please check the instagram page: @pyton_projects_
+For output referance please check the instagram page: https://www.instagram.com/hack_smashes/
